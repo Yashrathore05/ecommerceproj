@@ -1,0 +1,54 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "IMMERSIVE X.AI",
+      "slug": "IMMERSIVE-X.AI",
+      "description": "IMMERSIVE X.AI revolutionizes creativity with AI-driven image generation from text prompts. Powered by Hugging Face's advanced models.",
+      "price": 0.00,
+      "price_inr": 0.00,
+      "isFeatured": true,
+      "image": "/courses/tool1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "VR Headset Model Visualization Tool",
+      "slug": "vr-headset-model-visualization-tool",
+      "description": "Effortlessly visualize AI-enhanced VR headset models with our advanced tool. Perfect for developers and enthusiasts, experience the future of virtual reality firsthand.",
+      "price": 0.00,
+      "price_inr": 0.00,
+      "isFeatured": true,
+      "image": "/courses/tool2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Entry Level VR Headset Package",
+      "slug": "entry-level-vr-headset-package",
+      "description": "Entry-level VR Headset Package with setup guidance and support.",
+      "price": 60.00,
+      "price_inr":4999.00 ,
+      "isFeatured": true,
+      "image": "/courses/h1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Premium Level Headset Package",
+      "slug": "premium-level-headset-package",
+      "description": "Premium Level Headset Package with setup guidance, priority support, and 3 months maintenance free.",
+      "price": 90.00,
+      "price_inr": 6999.00,
+      "isFeatured": true,
+      "image": "/courses/h2.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Industry Level Mixed Tech Headset",
+      "slug": "industry-level-mixed-tech-headset",
+      "description": "Special Industry Level advanced Headset Package with customized features and yearly maintenance free up to 3 years.",
+      "price": 120.00,
+      "price_inr": 9999.00,
+      "isFeatured": true,
+      "image": "/courses/h3.jpg"
+    }
+  ]
+}
